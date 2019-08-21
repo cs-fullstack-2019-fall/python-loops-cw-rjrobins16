@@ -19,18 +19,5 @@ The average of NUMBER1, NUMBER2, and NUMBER3 is THEAVERAGE
 ### Exercise 4:
 Password Checker - Ask the user to enter a password. Ask them to confirm the password. If it's not equal, keep asking until it's correct or they enter 'Q' to quit.
 
-## BONUS:
-FIZZBUZZ is the classic Programmer's challenge often used as part of job interviews:
 
-* Prompt the User for the ending value (e.g. 100)
-
-* Your code should start at 1 and then iterate each number up to the ending value entered by the user
-
-* If the current number is evenly divisible by 3 you should print ```FIZZ``` and the number
-
-* If the current number is evenly divisible by 5 you should print ```BUZZ``` and the number
-
-* If the current number is evenly divisible by both 3 and 5 you should print ```FIZZBUZZ``` and the number to the screen
-
-* Otherwise, just print the original number
 
