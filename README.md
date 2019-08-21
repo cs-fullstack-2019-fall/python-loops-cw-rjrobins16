@@ -17,6 +17,9 @@ The average of NUMBER1, NUMBER2, and NUMBER3 is THEAVERAGE
 ```
 
 ### Exercise 4:
+Use any loop to print all numbers between 0 and 100 that are even. Hint: You can find multiples of 2 with (whatever_number % 2 == 0)
+
+### Challenge:
 Password Checker - Ask the user to enter a password. Ask them to confirm the password. If it's not equal, keep asking until it's correct or they enter 'Q' to quit.
 
 
