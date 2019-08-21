@@ -54,7 +54,7 @@ for x in range(0,100,1):
 userpassword=input("Enter a password.")
 userpassword2=input("Re-enter a password.")
 
-while userpassword != userpassword2:
+while userpassword != userpassword2 and userpassword2 != 'q':
     print ("Passwords do not match. Please re-enter your password:")
     userpassword2=input()
 
